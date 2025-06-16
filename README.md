@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img alt="👋" width="10%" src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif"><br/>I'm Qazi Tehmas</h1>
+<h1 align="center">Hi <img alt="👋" width="5%" src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif"><br/>I'm Qazi Tehmas</h1>
 <h3 align="center">A passionate developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/360/36024.gif">
 
