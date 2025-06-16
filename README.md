@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **qazitehmas1012@gmail.com**
 
-- ⚡ Fun fact **NO FUN FACT!!!**
+- ⚡ Fun fact **The term "bug" to describe a programming error originated from a literal moth found inside a computer causing it to malfunction**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
