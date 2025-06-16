@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img alt="👋" width="5%" src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif"><br/>I'm Qazi Tehmas</h1>
-<h3 align="center">A passionate developer from Pakistan.</h3>
+<h3 align="center">A passionate developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/360/36024.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qazitehmas&label=Profile%20views&color=0e75b6&style=flat" alt="qazitehmas" /> </p>
