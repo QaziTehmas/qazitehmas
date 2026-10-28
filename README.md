@@ -11,7 +11,6 @@
 - Specializing in React, Next.js, Flutter, Node.js, Python, and cloud/backend architectures.
 - Reach out via my portfolio or LinkedIn below!
 
-- **Fun fact** The term "bug" to describe a programming error originated from a literal moth found inside a computer causing it to malfunction.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/qazitehmas" target="_blank">
