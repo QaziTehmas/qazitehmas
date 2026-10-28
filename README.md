@@ -5,7 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/360/36024.gif">
 
 
-<p align="left"> <a href="https://twitter.com/_yeet_0" target="blank"><img src="https://img.shields.io/twitter/follow/_yeet_0?logo=twitter&style=for-the-badge" alt="_yeet_0" /></a> </p>
 
 - Crafting high-performance web applications, mobile ecosystems, and AI/ML solutions.
 - Specializing in React, Next.js, Flutter, Node.js, Python, and cloud/backend architectures.
